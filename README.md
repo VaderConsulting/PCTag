@@ -17,6 +17,10 @@ This is a Visual Studio 2008 VB.NET class library that models a laser-tag style 
 
 Open `PCTag.sln` in Visual Studio 2008.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `PCTag`). Assembly company still says Microsoft from the VS template.
