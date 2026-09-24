@@ -1,6 +1,6 @@
 # PCTag
 
-This is a Visual Studio 2008 VB.NET class library that models a laser-tag style player: health, name, gun, magazine, bullet, and ammo types (ball, tracer, rubber, and similar). It is Dave Robinson's working copy from Historical Dev, a PC-side sketch related to later tag/lasertag work.
+This is a Visual Studio 2008 VB.NET class library that models a laser-tag style player: health, name, gun, magazine, bullet, and ammo types (ball, tracer, rubber, and similar). It is my working copy from Historical Dev, a PC-side sketch related to later tag/lasertag work.
 
 **Source last updated:** 2009-05-06  
 **Language:** VB.NET  
